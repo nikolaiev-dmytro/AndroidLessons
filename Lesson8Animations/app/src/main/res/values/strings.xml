@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lesson8Animations</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Previous</string>
+    <string name="show_second_fragment">Show second fragment</string>
+    <string name="show_first_fragment">show first fragment</string>
+    <string name="to_left_animation_button">To left</string>
+    <string name="to_right_animation_button">To right</string>
+    <string name="to_right_and_up_animation_button">To right and up</string>
+    <string name="to_left_and_up_animation_button">To left and up</string>
+</resources>
