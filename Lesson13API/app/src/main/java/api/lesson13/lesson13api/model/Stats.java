@@ -6,8 +6,7 @@ import com.google.gson.annotations.SerializedName;
 /**
  * Created by User on 06.03.2018.
  */
-
-class Stats {
+public class Stats {
 
     @SerializedName("listeners")
     @Expose
@@ -15,6 +14,10 @@ class Stats {
     @SerializedName("playcount")
     @Expose
     private String playcount;
+
+    public Stats(String listeners) {
+        this.listeners = listeners;
+    }
 
     public String getListeners() {
         return listeners;

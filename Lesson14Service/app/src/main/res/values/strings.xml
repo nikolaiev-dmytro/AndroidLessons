@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lesson14Service</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="start_service_message">Service started work</string>
+    <string name="stop_service_message">Stop service work</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "358304323467",
+    "firebase_url": "https://lesson17sqlite.firebaseio.com",
+    "project_id": "lesson17sqlite",
+    "storage_bucket": "lesson17sqlite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358304323467:android:5df65d029694a3f4",
+        "android_client_info": {
+          "package_name": "sqlite.lesson17.lesson17sqlite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358304323467-a3330dhirdpifd7g483l6462q0u733qu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sqlite.lesson17.lesson17sqlite",
+            "certificate_hash": "db88d6af105fa80a687f38a77113a3cb6f3640bc"
+          }
+        },
+        {
+          "client_id": "358304323467-4jlpc044eeg47nl12rl0p4kkmnn6mt3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp3RG0Oq25UY5ey-BUc_-AO8yvGH2aXdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358304323467-4jlpc044eeg47nl12rl0p4kkmnn6mt3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

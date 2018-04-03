@@ -3,4 +3,8 @@
     <string name="api_key">6baae4f5ebe689185fa7fb4f5e449d53</string>
     <string name="search_button">Search</string>
     <string name="api_root">http://ws.audioscrobbler.com/2.0/</string>
+    <string name="search_error">Search error, enter text and try again</string>
+    <string name="not_found_exeption">Not found, try again!</string>
+    <string name="cant_open_url_exeption">Not found URL to open Browser</string>
+    <string name="listeners_prefix">Listeners: </string>
 </resources>
