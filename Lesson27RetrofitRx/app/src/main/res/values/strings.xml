@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lesson27Retrofit+Rx</string>
+    <string name="base_url">https://www.metaweather.com/api/</string>
+    <string name="search">Search</string>
+</resources>
